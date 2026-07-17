@@ -1,0 +1,4 @@
+tres tablas 
+cliente 5 campos 
+producto 5 campos
+venta 5 campos 
